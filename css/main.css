@@ -1,0 +1,74 @@
+body {
+	background-color: #e9eaed;
+}
+
+a {
+	float : right;
+}
+
+.divDessins {
+	background-color: #fff;
+}
+
+#pseudo {
+    color: rgb(150, 255, 150);
+    font-size: 20px;
+    margin-right: 5px;
+    margin-top : 10px;
+}
+
+.page {
+	margin-top: 40px;
+}
+
+#btn-deconnexion {
+	margin-top: 8px;
+}
+
+.formPage {
+	margin-top: 20px;
+}
+
+#jumptotop {
+  position: fixed;
+  bottom: 85px;
+  right: 35px;
+  z-index: 999;
+  height: 54px;
+  width: 56px;
+  display: none;
+  opacity: 1;
+  -moz-border-radius: 5px 5px 5px 5px;
+  -webkit-border-radius: 5px 5px 5px 5px;
+  border-radius: 5px 5px 5px 5px;
+  -webkit-transition: all 0s linear;
+  -moz-transition: all 0s linear;
+  -o-transition: all 0s linear;
+  transition: all 0s linear;
+  background: url("../jumptotop.png") center center no-repeat transparent;
+}
+
+#switchtoMob {
+  position: fixed;
+  float: left;
+  z-index: 999;
+  opacity: 1;
+  width: 100px;
+  color: #FF6900;
+}
+
+.divComm {
+	margin-top: 10px;
+}
+
+.titreDessins, .inputComm{
+	margin-left: 10px;
+	padding-top: 1px;
+}
+
+.inputComm {
+	width: 97%;
+}
+
+
+
